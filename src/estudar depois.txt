@@ -1,0 +1,2 @@
+useLayoutEffect
+criação de escopo com arrow function referenciando variáveis de um escopo anterior (sei lá)
